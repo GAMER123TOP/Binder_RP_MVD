@@ -2,6 +2,7 @@
 SendMode("Event")
 SetKeyDelay(50, 50)
 
+; проверка
 ; ===== ГЛОБАЛЬНЫЕ НАСТРОЙКИ =====
 global StopMacro := false
 
